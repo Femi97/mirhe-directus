@@ -30,7 +30,7 @@ services:
       - key: SECRET
         generateValue: true
       - key: ADMIN_PASSWORD
-        generateValue: true
+        value: 'Femi@1997'
       - key: ADMIN_EMAIL
         value: 'femihoungbo10@gmail.com'
       - key: LOG_STYLE
